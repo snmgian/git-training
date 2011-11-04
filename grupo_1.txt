@@ -3,6 +3,7 @@ Grupo 1
 Alemania pertenece a Europa
 China pertenece a Asia
 Grecia pertenece a Europa
-India pertenece a Africa
+India pertenece a Asia
+Honduras pertenece a America
 Mexico pertenece a America
 Zaire pertenece a Africa
